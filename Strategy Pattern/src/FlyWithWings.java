@@ -1,0 +1,8 @@
+
+public class FlyWithWings implements IFlyBehavior {
+
+	public void fly() {
+		System.out.println("≥Øæ∆ø‰ »Œ»Œ");
+	}
+
+}
